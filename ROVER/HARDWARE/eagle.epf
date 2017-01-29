@@ -1,0 +1,45 @@
+[Eagle]
+Version="07 07 00"
+Platform="Mac OS X"
+Serial="7321FDB2E2-LSR-WLM-1SS"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/Adafruit-Eagle-Library-master/adafruit.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/Custom Library/Stackpole Electronics.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/Custom Library/TDK-LAMBDA.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/Custom Library/Teensy_3_and_LC_Series_Boards_v1.0.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/Custom Library/Vicor Power.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/GeekAmmo.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/LilyPad-Wearables.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Aesthetics.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-AnalogIC.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Boards.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Capacitors.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Connectors.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Displays.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Electromechanical.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-LED.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Passives.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-PowerIC.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-RF.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Resistors.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Retired.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/SparkFun-Sensors.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/SparkFun-Eagle-Libraries-master/User-Submitted.lbr"
+UsedLibrary="/Users/eokeefe/Documents/eagle/External Librarys/Custom Library/SOURIA.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="5 23 604 422"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
